@@ -1,0 +1,8 @@
+﻿Module1;CInstructorS1;CInstructorN1;6;
+Module2;BInstructorS2;BInstructorN2;9;
+Module3;CInstructorS1;CInstructorN1;3;
+Module5;DInstructorS4;DInstructorN4;6;
+Module4;AInstructorS3;AInstructorN3;9;
+Module1;CInstructorS1;CInstructorN1;12;
+Module6;LInstructorS1;LInstructorN1;12;
+Module7;LInstructorS1;LInstructorN1;12;

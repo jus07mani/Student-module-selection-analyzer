@@ -1,0 +1,13 @@
+﻿1;Module1;StudS1;StudN1;G1;
+1;Module1;StudS1;StudN1;G1;
+1;Module1;StudS1;StudN1;G1;
+1;Module1;StudS1;StudN1;G1;
+2;Module1;StudS2;StudN2;G1;
+3;Module1;StudS3;StudN3;G2;
+1;Module2;StudS1;StudN1;G1;
+1;Module3;StudS1;StudN1;G1;
+2;Module3;StudS2;StudN2;G1;
+3;Module2;StudS3;StudN3;G2;
+1;Module6;StudS1;StudN1;G1;
+2;Module7;StudS2;StudN2;G1;
+3;Module7;StudS3;StudN3;G2;

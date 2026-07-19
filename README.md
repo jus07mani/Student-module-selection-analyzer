@@ -1,5 +1,4 @@
-
- Student Module Selection Analyzer
+# ModuLink: Student Module Selection Analyzer
 
 A C++ console application that cross-references which university modules students have selected against the master module/instructor list — built from custom data structures (a hand-rolled generic doubly linked list) rather than STL containers, ported from a C# WinForms original.
 
